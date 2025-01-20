@@ -14,24 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Hi there 👋
-My name is **Roy Le** and I'm a Odoo Developer at [Viindoo](https://github.com/Viindoo), from Vietnam.
 
-### My Skill Set
+My name is **Roy Le** and I’m thrilled to share that I’ve officially surpassed **10,000 hours** in the fields of **software development** and **product management** at [Viindoo](https://github.com/Viindoo), from Vietnam.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+This milestone reflects:  
+- 🚀 **Deep technical growth** through solving complex problems.  
+- 💡 **Leadership experience** in managing and mentoring a talented team.  
+- 🌟 **Contribution** to impactful digital transformation projects.  
+
+## 🙏 A Journey of Growth  
+Over the years, I’ve had the opportunity to:  
+1. Collaborate with amazing colleagues and clients.  
+2. Deliver innovative ERP solutions tailored to business needs.  
+3. Drive product development that creates real value for users.  
+
+Thank you to everyone who has been part of this journey. Here’s to continuing to innovate and achieve new milestones!  
+
+---
+
+## 📊 Skills and Expertise  
+- **ERP Systems**: Design, implementation, and customization.  
+- **Leadership**: Team management and product strategy.  
+- **Tech Stack**: Python, Odoo Framework, PostgreSQL, SQL, OWL, JavaScript, and more.  
+
+---
 
 ### Connect with me
 
