@@ -19,25 +19,26 @@ Here are some ideas to get you started:
 
 My name is **Roy Le** and I’m thrilled to share that I’ve officially surpassed **10,000 hours** in the fields of **software development** and **product management** at [Viindoo](https://github.com/Viindoo), from Vietnam.
 
-This milestone reflects:  
-- 🚀 **Deep technical growth** through solving complex problems.  
-- 💡 **Leadership experience** in managing and mentoring a talented team.  
-- 🌟 **Contribution** to impactful digital transformation projects.  
+This milestone reflects:
+- 🚀 **Deep technical growth** through solving complex problems.
+- 💡 **Leadership experience** in managing and mentoring a talented team.
+- 🌟 **Contribution** to impactful digital transformation projects.
 
 ## 🙏 A Journey of Growth  
-Over the years, I’ve had the opportunity to:  
-1. Collaborate with amazing colleagues and clients.  
-2. Deliver innovative ERP solutions tailored to business needs.  
-3. Drive product development that creates real value for users.  
+Over the years, I’ve had the opportunity to:
+1. Collaborate with amazing colleagues and clients.
+2. Deliver innovative ERP solutions tailored to business needs.
+3. Drive product development and optimization to create high-performing, innovative solutions that creates real value for users.
+4. Mentoring junior developers, sharing knowledge, and contributing to open-source projects such as `Odoo`, `OpenUpgrade`, and more.
 
-Thank you to everyone who has been part of this journey. Here’s to continuing to innovate and achieve new milestones!  
+Thank you to everyone who has been part of this journey. Here’s to continuing to innovate and achieve new milestones!
 
 ---
 
 ## 📊 Skills and Expertise  
-- **ERP Systems**: Design, implementation, and customization.  
-- **Leadership**: Team management and product strategy.  
-- **Tech Stack**: Python, Odoo Framework, PostgreSQL, SQL, OWL, JavaScript, and more.  
+- **ERP Systems**: Design, implementation, and customization.
+- **Leadership**: Team management and product strategy.
+- **Tech Stack**: Python, Odoo Framework, PostgreSQL, SQL, OWL, JavaScript, and more.
 
 ---
 
