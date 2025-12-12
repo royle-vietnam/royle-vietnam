@@ -1,59 +1,78 @@
-<!--
 ## Hi there 👋
 
-**royle-viindoo/royle-viindoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Roy Le**, a **Software Engineer & Product Builder** from Vietnam 🇻🇳  
+with extensive experience in **ERP systems, large-scale business software**, and **open-source ecosystems**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi there 👋
-
-My name is **Roy Le** and I’m thrilled to share that I’ve officially surpassed **10,000 hours** in the fields of **software development** and **product management** at [Viindoo](https://github.com/Viindoo), from Vietnam.
-
-This milestone reflects:
-- 🚀 **Deep technical growth** through solving complex problems.
-- 💡 **Leadership experience** in managing and mentoring a talented team.
-- 🌟 **Contribution** to impactful digital transformation projects.
-
-## 🙏 A Journey of Growth  
-Over the years, I’ve had the opportunity to:
-1. Collaborate with amazing colleagues and clients.
-2. Deliver innovative ERP solutions tailored to business needs.
-3. Drive product development and optimization to create high-performing, innovative solutions that creates real value for users.
-4. Mentoring junior developers, sharing knowledge, and contributing to open-source projects such as `Odoo`, `OpenUpgrade`, and more.
-
-Thank you to everyone who has been part of this journey. Here’s to continuing to innovate and achieve new milestones!
+I’ve spent over **10,000+ hours** working across **software engineering, system architecture, and product development**, focusing on building **robust, scalable, and maintainable solutions** that solve real business problems.
 
 ---
 
-## 📊 Skills and Expertise  
-- **ERP Systems**: Design, implementation, and customization.
-- **Leadership**: Team management and product strategy.
-- **Tech Stack**: Python, Odoo Framework, PostgreSQL, SQL, OWL, JavaScript, and more.
+## 🚀 What I Do
+
+- 🧠 **Design & build enterprise software** with a strong focus on ERP and business process automation  
+- 🛠️ **Develop and customize complex systems** using Python, PostgreSQL, and modern web technologies  
+- 📦 **Lead product development** from requirements → architecture → delivery  
+- 🤝 **Collaborate & mentor** engineers, contributing to sustainable team growth  
+- 🌍 **Contribute to open-source projects**, especially around ERP platforms and tooling
 
 ---
 
-### Connect with me
+## 🏆 Experience Highlights
+
+- Delivered **mission-critical ERP solutions** for SMEs and growing enterprises  
+- Worked deeply with **data models, performance optimization, and system scalability**  
+- Hands-on experience with **business domains**: accounting, sales, inventory, manufacturing, CRM  
+- Contributed to and worked with open-source projects such as:
+  - `Odoo`
+  - `OpenUpgrade`
+  - Community-driven ERP & tooling initiatives
+
+---
+
+## 🧩 Skills & Technologies
+
+**Backend**
+- Python, PostgreSQL, SQL
+- ERP frameworks (Odoo ecosystem)
+- Performance tuning & data migration
+
+**Frontend**
+- JavaScript, OWL
+- Web UI customization for business applications
+
+**Product & Engineering**
+- System design & architecture
+- Product requirement analysis
+- Code quality, maintainability, and long-term scalability
+
+---
+
+## 🌱 Philosophy
+
+> *Good software is not just code — it’s a balance of architecture, business understanding, and long-term thinking.*
+
+I value:
+- Clean and understandable code  
+- Practical engineering decisions  
+- Products that create **real, measurable value**
+
+---
+
+## 📫 Connect with Me
 
 <div align="left">
   <a href="https://github.com/royle-vietnam" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo"  />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
   <a href="mailto:royle.vietnam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://x.com/royle_vietnam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
-###
+---
+
+⭐ Always open to meaningful discussions, collaboration, and building impactful software.
+
